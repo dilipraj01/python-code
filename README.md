@@ -1,1 +1,2 @@
-# python-code
+# python-code 
+for vowels seperation and deletion
